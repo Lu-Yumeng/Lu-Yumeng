@@ -6,6 +6,6 @@ I am Yumeng Lu
 - 🗽 B.S. in Computer Science @ NYU Shanghai
 - 👤 LinkedIn: [Yumeng Lu](https://www.linkedin.com/in/yumeng-lu-55094221b/)
 - 🎒 Internship: Microsoft SDE, 2021 -> Microsoft SDE, 2022 ->  Apple DA, 2023 ->  Apple Backend Developer, 2023
-- 📩 Contact me: [Gmail](kyxtky@gmail.com)
+- 📩 Contact me: [Gmail](mailto:kyxtky@gmail.com)
 - 🎾 Tennis lover
 - 🎬 Movie lover
