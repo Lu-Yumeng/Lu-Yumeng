@@ -1,7 +1,7 @@
 # Hi there 👋🏻
 I am Yumeng Lu 
 
-- 🙌 Very typical INTP & Taurus ( I really like my personality type and constellation 🥰) 
+- 🙌 Very typical ISTP & Taurus ( I really like my constellation 🥰) 
 - 📌 Incoming MSEE Student @ Stanford University (starting 2023 September). 
 - 🗽 B.S. in Computer Science @ NYU Shanghai
 - 👤 LinkedIn: [Yumeng Lu](https://www.linkedin.com/in/yumeng-lu-55094221b/)
